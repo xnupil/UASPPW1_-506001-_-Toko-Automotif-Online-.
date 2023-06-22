@@ -1,0 +1,14 @@
+body{
+    overflow-x: hidden;
+}
+.sectionone{
+    background-image: url(resources/bgmto.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.btn{
+    background-color: #115ccc;
+    border: none;
+}
